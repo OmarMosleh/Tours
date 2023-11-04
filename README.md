@@ -5,7 +5,7 @@ this mini project is a good practice for the useState hook and the props.
 ## technologies
 React,CSS
 ## Live preview
-https://omarmosleh.github.io/Tours/ 
+https://mellifluous-zuccutto-e4a240.netlify.app/
 ## Design
 
 
